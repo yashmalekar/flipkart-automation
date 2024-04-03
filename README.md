@@ -1,7 +1,7 @@
 # Flipkart Automation - _Yash Malekar_
 
 ## Project Description:
-This project automates tasks related to Flipkart.
+Automated the Flipkart website using Selenium and it returns the count of items with different Star ratings, Prices and Number of Reviews.
 
 ## Installation Instructions:
 
